@@ -1,0 +1,1 @@
+#To jest dla informatyków teoretycznych
